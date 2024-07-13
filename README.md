@@ -7,9 +7,9 @@ we are going to learn bash shell scripting,
 bash sell scripting
 
 ######List of Shell Topics
-Printing
-Variables
-Conditions
-Functions
-Loops
-SED Editor
+1. Printing
+2. Variables
+3. Conditions
+4. Functions
+5. Loops
+6. SED Editor
